@@ -88,7 +88,7 @@ For the purposes of the task, the raw data provided in the course was filtered a
 * "frequency_BodyBodyGyroJerkMag_mean"  --  mean magnitude of body angular velocity, calculated using the Euclidean norm, Jerk signals (frequency domain) 
 * "frequency_BodyBodyGyroJerkMag_std"  --  standard deviation of the magnitude of body angular velocity, calculated using the Euclidean norm, Jerk signals (frequency domain)
 
-**mean:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The calulated average of each measurement for each activity and each subject 
+<b>mean:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The calulated average of each measurement for each activity and each subject 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; type: numeric </p>
 
 
