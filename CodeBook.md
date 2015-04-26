@@ -5,6 +5,8 @@ The data set is based on the [data](https://d396qusza40orc.cloudfront.net/getdat
 For the purposes of the task, the raw data provided in the course was filtered and reshaped, as described in the README.md file. This resulted in four variables, described in what follows.
 
 <BR>&nbsp;<BR>
+
+<p> VARIABLE NAME </p>
 ##### id
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Description:_ Unique identification number assigned to each participant </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 levels: from 1 to 30 </p>
@@ -20,7 +22,7 @@ For the purposes of the task, the raw data provided in the course was filtered a
 * "Stading"
 * "Laying"
 
-
+<BR>&nbsp;<BR>
 ##### feature
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Description:_ Measurements from the devices containing mean and standard deviation (as specified in the Course Project)</p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;66 levels: </p>
@@ -92,6 +94,7 @@ For the purposes of the task, the raw data provided in the course was filtered a
 * "frequency_BodyBodyGyroJerkMag_mean"  --  mean magnitude of body angular velocity, calculated using the Euclidean norm, Jerk signals (frequency domain) 
 * "frequency_BodyBodyGyroJerkMag_std"  --  standard deviation of the magnitude of body angular velocity, calculated using the Euclidean norm, Jerk signals (frequency domain)
 
+<BR>&nbsp;<BR>
 #####mean
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Description:_ The calulated average of each measurement for each activity and each subject 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; type: numeric </p>
