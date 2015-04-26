@@ -4,10 +4,12 @@ The data set is based on the [data](https://d396qusza40orc.cloudfront.net/getdat
 
 For the purposes of the task, the raw data provided in the course was filtered and reshaped, as described in the README.md file. This resulted in four variables, described in what follows.
 
-<p>**id:** &nbsp;&nbsp;&nbsp;unique identification number assigned to each participant </p>
+<BR>&nbsp;<BR>
+####id
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description: unique identification number assigned to each participant </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 levels: from 1 to 30 </p>
 
-
+<BR>&nbsp;<BR>
 <p>**activity:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type of activity measured </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 levels: </p>
 * "Walking"
