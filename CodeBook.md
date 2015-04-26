@@ -5,12 +5,13 @@ The data set is based on the [data](https://d396qusza40orc.cloudfront.net/getdat
 For the purposes of the task, the raw data provided in the course was filtered and reshaped, as described in the README.md file. This resulted in four variables, described in what follows.
 
 <BR>&nbsp;<BR>
-####id
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description: unique identification number assigned to each participant </p>
+##### id
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Description:_ Unique identification number assigned to each participant </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 levels: from 1 to 30 </p>
 
 <BR>&nbsp;<BR>
-<p>**activity:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type of activity measured </p>
+##### activity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Description:_ Type of activity measured </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 levels: </p>
 * "Walking"
 * "Walking Upstairs"
@@ -20,9 +21,10 @@ For the purposes of the task, the raw data provided in the course was filtered a
 * "Laying"
 
 
-<p> **feature:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Measurements from the devices containing mean and standard deviation (as specified in the Course Project)</p>
-
+##### feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Description:_ Measurements from the devices containing mean and standard deviation (as specified in the Course Project)</p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;66 levels: </p>
+
 * "time_BodyAcceleration_mean_ X"  --  mean linear body acceleration on the X axis (time domain)
 * "time_BodyAcceleration_mean_Y"   --  mean linear body acceleration on the Y axis (time domain)
 *"time_BodyAcceleration_mean_Z"  --  mean linear body acceleration on the Z axis (time domain)
@@ -90,7 +92,8 @@ For the purposes of the task, the raw data provided in the course was filtered a
 * "frequency_BodyBodyGyroJerkMag_mean"  --  mean magnitude of body angular velocity, calculated using the Euclidean norm, Jerk signals (frequency domain) 
 * "frequency_BodyBodyGyroJerkMag_std"  --  standard deviation of the magnitude of body angular velocity, calculated using the Euclidean norm, Jerk signals (frequency domain)
 
-<b>mean:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The calulated average of each measurement for each activity and each subject 
+#####mean
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Description:_ The calulated average of each measurement for each activity and each subject 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; type: numeric </p>
 
 
