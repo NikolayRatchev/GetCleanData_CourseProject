@@ -1,6 +1,3 @@
----
-output: html_document
----
 # GetCleanData_CourseProject
 
 This repo is created for the Coursera's "Getting and Cleaning Data" course project. It contains two files:
