@@ -1,4 +1,4 @@
-
+# ---- cOURSE PROJECT SCRIPT -----
 
 # STEP 0: Preliminary actions: download & unzip files
 
@@ -61,7 +61,7 @@ subset <- syx.all[, c(1,2, (columns_cleaned + 2))] # we need to add 2 to the ind
 # names(subset)
 
 
-        # STEP 3: Uses descriptive activity names to name the activities in the data set
+# STEP 3: Uses descriptive activity names to name the activities in the data set
 
 # 3.1 read file with activity labels
 activities <- read.table("UCI HAR Dataset/activity_labels.txt")
