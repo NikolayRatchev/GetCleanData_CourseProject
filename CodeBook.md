@@ -6,13 +6,13 @@ For the purposes of the task, the raw data provided in the course was filtered a
 
 <BR>&nbsp;<BR>
 
-<p> VARIABLE NAME </p>
-##### id
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Description:_ Unique identification number assigned to each participant </p>
+
+##### id {variable name}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Description:_ Unique identification number assigned to each participant
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 levels: from 1 to 30 </p>
 
 <BR>&nbsp;<BR>
-##### activity
+##### activity {variable name}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Description:_ Type of activity measured </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 levels: </p>
 * "Walking"
@@ -23,7 +23,7 @@ For the purposes of the task, the raw data provided in the course was filtered a
 * "Laying"
 
 <BR>&nbsp;<BR>
-##### feature
+##### feature {variable name}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Description:_ Measurements from the devices containing mean and standard deviation (as specified in the Course Project)</p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;66 levels: </p>
 
@@ -95,7 +95,7 @@ For the purposes of the task, the raw data provided in the course was filtered a
 * "frequency_BodyBodyGyroJerkMag_std"  --  standard deviation of the magnitude of body angular velocity, calculated using the Euclidean norm, Jerk signals (frequency domain)
 
 <BR>&nbsp;<BR>
-#####mean
+#####mean {variable name}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Description:_ The calulated average of each measurement for each activity and each subject 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; type: numeric </p>
 
